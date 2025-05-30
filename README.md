@@ -2,7 +2,7 @@
 Welcome to my GitHub kingdom! I'm a young Software Engineer who is destined to build powerful apps, tackle complex problems, and have a little fun along the way. Whether I'm working on maintaining a solid GPA, I’m always in developer mode.
 
 ## 🚀 Who Am I?
-🎓 A senior in highschool with a focus on writing clean code that carries creativity and innovation.
+🎓 A senior in highschool with a focus on Software Engineering.
 
 👨🏾 A Black, first generation student.
 
