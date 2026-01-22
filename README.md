@@ -1,17 +1,17 @@
 # Hello! I'm Micah Williams 👨🏾‍💻👾
-Welcome to my GitHub kingdom! I'm a young Software Engineer who is destined to build powerful apps, tackle complex problems, and have a little fun along the way. Whether I'm working on maintaining a solid GPA, I’m always in developer mode.
+Welcome to my GitHub kingdom! I'm a young Software Engineer who is destined to build powerful apps, tackle complex problems, all while having a little fun along the way 😁
 
 ## 🚀 Who Am I?
-🎓 A senior in highschool with a focus on Software Engineering.
+🎓 A freshman at NYU with a focus on Software Engineering/Information Systems.
 
 👨🏾 A Black, first generation student.
 
-🕹️⛹🏾 When I’m not coding, you can probably find me playing Super Mario or playing basketball!
+🕹️⛹🏾 A Gamer, a hooper, and a HUGE knicks fan.
 
 ## 💻 My Tech Stack
 Languages: HTML, CSS, JavaScript, Python, and Java (My primary language lol!)
 
-Tools: Git, BitBucket, VSCode, Postman, Splunk, Datadog, Swagger UI
+Tools: Git, GitHub, VSCode, IntelliJ, Postman, Splunk, Datadog, Swagger UI, Bruno, AWS
 
 ## 🏗️ Projects: 
 Pac-Man – A code.org project to reanact the original Pac-Man game with some extra additions =)
