@@ -2,7 +2,7 @@
 Welcome to my GitHub kingdom! I'm a young Software Engineer who is destined to build powerful apps, tackle complex problems, all while having a little fun along the way 😁
 
 ## 🚀 Who Am I?
-🎓 A freshman at NYU with a focus on Software Engineering/Information Systems.
+🎓 A Sophomore at NYU with a focus on Software Engineering/Information Systems.
 
 👨🏾 A Black, first generation student.
 
@@ -27,8 +27,6 @@ Random Password Generator – A project built to grant users strong and secured 
 🌐 LinkedIn: https://www.linkedin.com/in/micah-williams-43337b2a4/
 
 📧 Email: micahwilliams937@gmail.com
-
-🖼️ Portfolio: https://mwilliams.my.canva.site/
 
 ## 🏆 Fun Fact
 My dream place to travel is Tokyo Japan! ⛩️
